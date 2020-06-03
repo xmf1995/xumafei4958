@@ -6,7 +6,7 @@
 
 + **地址**
   
-+ 廖雪峰官方学习网站：https://www.liaoxuefeng.com/wiki/896043488029600
+  - 廖雪峰官方学习网站：https://www.liaoxuefeng.com/wiki/896043488029600
   
 + **笔记**
     + 分布式版本控制系统
@@ -25,7 +25,7 @@
     
     + Windows中不要用记事本编辑任何文本文件
     
-    + 提交文件分两步：git add + git commit
+    + 提交文件分两步：git add（暂存） + git commit（提交）
 
 2. #### Markdown学习
 
