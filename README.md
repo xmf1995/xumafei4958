@@ -27,6 +27,10 @@
     + Windows中不要用记事本编辑任何文本文件
     
     + 提交文件分两步：git add（暂存） + git commit（提交）
+    
+    + 配置ssh密钥，将本地对公密钥配置到GitHub中
+    
+    + git push 将本地仓库上传到GitHub中
 
 2. #### Markdown学习
 
