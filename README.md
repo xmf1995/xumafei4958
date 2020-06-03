@@ -7,6 +7,7 @@
 + **地址**
   
   - 廖雪峰官方学习网站：https://www.liaoxuefeng.com/wiki/896043488029600
+  - 《Pro git》
   
 + **笔记**
     + 分布式版本控制系统
