@@ -24,6 +24,8 @@
     + 新手不要修改.git目录，会破坏仓库
     
     + Windows中不要用记事本编辑任何文本文件
+    
+    + 提交文件分两步：git add + git commit
 
 2. #### Markdown学习
 
